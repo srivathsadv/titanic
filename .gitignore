@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pkl
+titanic_env/
+dist/
+titanic_model.egg-info/
+.DS_Store
